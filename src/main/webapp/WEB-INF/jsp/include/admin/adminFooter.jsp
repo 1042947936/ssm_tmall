@@ -6,8 +6,7 @@
 	pageEncoding="UTF-8" isELIgnored="false"%>
 
 
-<div class="footer">
-</div>
+<div class="footer"></div>
 
 
 </body>

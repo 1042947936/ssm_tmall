@@ -3,11 +3,10 @@
 <!-- 供购买者学习，请勿私自传播，否则自行承担相关法律责任-->
 
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-		 pageEncoding="UTF-8" isELIgnored="false"%>
+	pageEncoding="UTF-8" isELIgnored="false"%>
 
 
 <div class="registerSuccessDiv">
 
-	<img src="img/site/registerSuccess.png">
-	恭喜注册成功
+	<img src="img/site/registerSuccess.png"> 恭喜注册成功
 </div>

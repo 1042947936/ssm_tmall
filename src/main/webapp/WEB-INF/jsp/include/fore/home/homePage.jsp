@@ -9,7 +9,7 @@
 
 <div class="homepageDiv">
 	<%@include file="categoryAndcarousel.jsp"%>
-	<%@include file="homepageCategoryProducts.jsp"%>	
+	<%@include file="homepageCategoryProducts.jsp"%>
 </div>
 
 
